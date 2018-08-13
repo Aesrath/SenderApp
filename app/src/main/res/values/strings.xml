@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SenderApp</string>
+    <string name="sendBtn">Send Broadcast</string>
+</resources>
